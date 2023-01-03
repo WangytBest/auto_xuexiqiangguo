@@ -21,7 +21,8 @@
     "type": "radio",
     "options": {
       "1": "一次",
-      "2": "两次"
+      "2": "两次",
+      "30": "30次"
     },
     "label": "完成四人赛几次",
     "validation": "required"
